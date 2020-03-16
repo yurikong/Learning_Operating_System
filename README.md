@@ -1,2 +1,2 @@
 # Learning_Operating_System
-CSULB CECS_326
+- project descriptions are in pdf's
