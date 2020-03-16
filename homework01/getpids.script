@@ -1,0 +1,4 @@
+#!/bin/csh
+set user=`whoami`
+echo $user
+ps aux | grep -v $user | cut -c10-14
